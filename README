@@ -4,3 +4,7 @@ Usage:
 $ ./suckage file1.js file2.js ...
 
 MIT license as usual.
+
+Note that its output should be taken with a grain of salt. It might claim that
+your code has suckage, but that doesn't mean it does. (It complains about
+Caterwaul, for instance, but we all know it's perfect ;) )
