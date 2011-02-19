@@ -2,3 +2,5 @@ JS Suckage: A small script to catch obvious suckage in Javascript code.
 
 Usage:
 $ ./suckage file1.js file2.js ...
+
+MIT license as usual.
